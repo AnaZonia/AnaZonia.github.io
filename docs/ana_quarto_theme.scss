@@ -1,0 +1,67 @@
+/*-- scss:rules --*/
+
+// Highlight color
+$highlight-color: yellow;
+
+// Italic color
+$italic-color: #8CC696;
+
+// Bold color
+$bold-color: #DB94D9;
+
+// Header colors
+$header1-color: #D49C34;
+$header2-color: #F47AF1;
+$header3-color: #92E3A4;
+$header4-color: #D4AF6C;
+
+// Document colors
+$document-background: #063630;
+$document-font-color: #E5F5EF;
+
+body {
+  background-color: $document-background;
+  color: $document-font-color;
+}
+
+.output {
+  color: green;
+  background-color: black;
+}
+
+// Apply the customizations
+.highlight {
+  background-color: $highlight-color;
+}
+
+.italic {
+  color: $italic-color;
+}
+
+h1 {
+  color: $header1-color;
+}
+
+h2 {
+  color: $header2-color;
+}
+
+h3 {
+  color: $header3-color;
+}
+
+// Link styles
+a {
+  color: #D9C963; // Default link color
+  text-decoration: none; // Remove underlines by default
+}
+
+a:hover {
+  color: #38C391; // Change color on hover
+}
+
+// Internal Table of Contents link style
+$toc-color: #38C391;
+$toc-active-border : #D9C963; 
+
+
