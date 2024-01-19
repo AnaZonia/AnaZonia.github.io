@@ -1,0 +1,439 @@
+---
+title: "Ana Did Science Today"
+format:
+  html:
+    toc: true
+    theme: ana_quarto_theme.scss
+---
+
+## 18/01/2024, Thu - Social Sciences Talks
+
+Our TA Ariana is an architect!
+
+### Cultural exchange
+**Baile Congo en Colón.** We saw some people on the way to Colón that were dressed in costumes, on speed bumps, dancing and asking for money. It is a pre-carnaval celebration (and also at another time of the year). It's super interesting that it was a dance done out of spite against the Spaniards - they wear patched clothes to show how they would get only the leftovers from the elite, and the dance displays a conflict between white and black people. They paint their faces black and wear crowns to mock the status that the white men would put themselves on. Also, some people dress up as devils to represent the spaniards (a fight of good vs evil).
+**The típico baile of Panama** is a nice chill dance similar to forró. Típico from Costa Rica looks like carimbó mixed with gaúcho clothing, it's quite interesting. It's nice how latinos truly dance their traditional dances and enjoy them.
+
+<mark>I am thinking of writing a summary of the history and significance of Brazilian carnaval to present its beauty to foreigners, and make a cross-comparison with other regions of Latin America.</mark>
+
+Also, it's interesting how much of the biodiversity and nature in Brazil inspires national pride and national art. I was reading a tweet on how ufanist nationalism is a part of far-right ideology, but <mark>I would like to write about not a blind "patriotism", but a true love and appreciation for your nation's culture and art and nature </mark>, and THAT'S what is valuable about Brazil, and our Latin siblings. Tom Jobim and all the music about nature is great example of this. Take away our biodiversity, our carnaval, our art, and the flag will mean nothing. Also, the culture and the nature unites us with the rest of Latin America, while a blind nationalism only enforces meaningless borders.
+
+[Self-Determination: A Perspective from Abya Yala](https://www.e-ir.info/2014/05/20/self-determination-a-perspective-from-abya-yala/#google_vignette)
+
+<mark>I am curious as to how the Guna people of Panama influenced indigenous movements across Latin America.</mark>
+#### Helicopter science and Smithsonian in Panama
+
+A major downside of English as a scientific language is that regardless of the fact that it is an "easy" and already widespread language, it does give an inherent major advantage to anglophones, which already have way too many advantages to begin with.
+- Whole can of worms. <mark>What should be the neutral international science language?</mark>
+
+Another added pressure to global south researchers is the added pressure that we have to share with our own communities and give back what we got. Global North researchers get to think of themselves and their career, while we do carry a significant extra load of being aware of the global inequality that exists and how hard it is to navigate it. Also, we have a harder time standing up for ourselves, showing our abilities, which is easier for Global North researchers.
+
+Only 3 years ago all documents started being available in both English and Spanish at STRI!
+
+One major advancement is the appointment of Dr. Oris Sanjur as director of STRI, the first Panamanian and first woman on the position. Also, over time, more partnerships with Panamanian research institutes are happening, although due to the recent tensions with the US there is still resistance from local scientists. Over time, the relationship with local institutes becomes more horizontal.
+
+> If the immediate social benefit outweighs ecological benefits, the activity will go on.
+
+Remembering yesterday's conversation with MC where she mentioned the different attitudes of indigenous peoples regarding the forest - weighing benefits and costs.
+
+### Microbiota and epiphytes - Lilisbeth Rodriguez-Castro 
+
+*Zamia pseudoparasitica* - the only strictly epiphytic gymnosperm!
+
+**Phyllosphere** - all that plants cover and surrounds them.
+The **microbiota** depends on many factors, including position in the forest strata and climate.
+They have ecological function (disease control, defenses, nutrient acquisition, stress tolerance) and can benefit their hosts (besides pathogenic microbes).
+
+**Diasotrophic bacteria** -> they fix nitrogen. proteobacteria and cyanobacteria can both do it. <mark>There is a question whether nitrogen fixation that happens outside the roots can also benefit plants.</mark>
+
+*What is the bacterial community composition on the leaves of this epiphyte in Panamanian protected areas?*
+- One of the places chosen to answer this question was Santa Fe! Also Palo Seco and El Cope. The biggest population of this plant is in a mining region and they could not go there to sample it.
+
+Data collection was done on wet and dry seasons. They collected information on temperature, humidity, and lighting on each sample.
+
+A study was done comparing the microbiota in the neo and paleotropics, and there were similarities.
+
+### Panama Canal Zone - Marixa Lasso
+An anthropologist and historian raised in Panama. MC is a big fan of her.
+
+[[Cuartos]]
+Related to the podcast recommended by MC, Radio Ambulante, on La Zona of the Americans in Panama. The disdain of Americans in regards to Panamanians and the degree of the segregation was palpable in the interview with the american kid raised in La Zona.
+
+The Zona was densely inhabited before the railway and canal was built, and people were made to relocate. It is not well known how people felt about the initial announcement of the canal construction. However, the relocation was not necessary - many villages were only minorly flooded, or not flooded at all. **The removal of people at few months' notice was a deliberate effort to remove Panamanian presence from the canal area.**
+
+It is hard to find registry of what these cities looked like before they were abandoned, as the photos represented what the government wanted - big trains, big canal gates.
+
+**Public health became an excuse for racism** -> under the excuse of "indigenous peoples bring diseases", they were made to leave from the areas where the white people wanted to inhabit. Makes sense from the disdain in the talk of the american guy that said that "before the US that was all a swamp with nothing but mosquitoes and indigenous people"
+
+At the time there was a lot of influence of other countries too, mainly the French. But after the early 20th century, it became a smaller, "perfect" version of an american village in the middle of the jungle.
+
+After the canal construction, there was the municipality period, in which there were both american and panamanian mayors. However, they tried to defend the rights of the people against the interests of the canal company, and then were removed so the company had complete control over the canal.
+
+**Gorgas** was a doctor responsible for combating yellow fever in the canal region. There was a big debate on whether the region should be inhabited or not, and he strongly defended that people should inhabit the area and thought it was unlikely that Americans would settle.
+
+**The myth of the native hut** -> the idea that technology and the tropics don't mix. gold miners came spreading once again the belief that natives were dirty and lazy. The huts, however, were connected and integrated with the railway.
+
+Another myth is the idea that the tropics were not good places for democracy, but some pioneer republics were founded in the Americas. Panama abolished slavery in 1851, before the US. Americans were racist towards black Panamanians (shocker)
+
+There is also an idea of the tropics as a place without history, that just absorbs and repeats what happens outside. It is important to fight against this misconception and remember that republic was expanded in the americas much before in many european states.
+
+*Roosevelt once was asked about the Panama Canal. His answer was a simple "we just took it".*
+
+It is important for small nations to exercise their influence and sovereignty.
+
+**Countryside schools are not necessarily bad schools** -> Connects nicely to what was being discussed today, with the Brazilian Northeast being simultaneously the poorest and best educated region. Culture, teacher quality, all of that makes a huge difference.
+
+**Contrast between the two sides of the fence** -> There is only perfection if another side of the fence is in misery. In the Southeast in Brazil, there is a large mass of extreme poverty and a few ultrawealthy, which is not as much the case in the better educated northeast.
+The pattern of pushing natives into impoverished ghettos repeats throughout history.
+
+### Citizen Participation - Gabriela Rogers
+
+She has felt mostly frustrated and powerless because while trying to fight for issues such as garbage maintenance and water supply, local politicians can have people "tricked" by fancy words, abandoning the local communities and seeing people as ignorant.
+
+**Fight against extractivism** -> the fight has been going for a while (around 90s), but over the past couple of years it has been made national and more powerful. The protests have been against mining in general but also the contract of "Proyecto Cobre Panamá".
+A company transferred an inconstitutional concession to mine to a Canadian company around 2007. The government intended to renegotiate the contract with the same company, with the intention of trying to make it look better, but the contract never went to public bidding (licitação) so the contract easily remained inconstitutional. In 2023, the contract was being renegotiated again, and the companies were not extracting minerals yet, but only starting to set up infrastructure.
+Most people in Panama didn't even know there was mining going on here!
+In the beginning, only people who joined the movement were environmentalists and people in the neighbor communities near the mining companies.
+It was a big powerful company, so for this to work out, they'd need to get the whole country to uprise.
+She made instagram posts in the beginning against the company, and as soon as the posts would go live, the links would disappear, as the companies were managing to denounce and take away from the internet anything that was attacking them.
+They thought together that *the way to get the message to Panamanian people was to draw parallels with the Canal Zone apartheid and American domination.* Once the contract was approved, everyone in Panama joined and took the streets.
+They were in the online groups "Sal de Las Redes" to try to get people to protest in real life, beyond the networks. They wanted to organize protests in front of major government buildings but it was impossible due to police repression, so they started with protesting in the streets, and millions of people joined, calling for mining and other social issues. Not everyone in the street was an environmentalist, as some people were protesting for other issues in Panama.
+They had full time jobs and were exhausted by daily planning and promoting protests, and the fear of exposing themselves on national TV, as there was pressure from interviewers for them to end up saying that they did not want to say.
+They tried to put them against other groups that were also organizing protests and get them to say something to calm down the protests. They picked words to absolutely not say to avoid misunderstandings, and still journalists with bad intentions could publish the news in a way that made things look more desirable to the companies.
+They were paranoid and scared.
+In Panama, mining is constitutional, so they needed a moratorium (a delay in execution of mining activities) in order to prove that this mining activity is inconstitutional. This divided the social groups, as some wanted to go on to press for complete ending of the contract, and some wanted to wait for the supreme court to rule the inconstitutionality of the contract.
+It was sad to see the division of the groups. In reality, the leaderships disagreed and would fight, and the only thing they had in common was that they did not want the contract, so it was not a perfectly harmonious union as it may have looked like on TV.
+This contract had been an issue for so long, and environmentalists were shocked to see how quickly did the issue get resolved as the contract got repelled.
+Politicians were shocked as well - many were baffled that they managed to be so successful and tried to investigate to see if there was someone very powerful behind the movements, and found nothing.
+One member of the parliament said they would vote for whatever they wanted, and for her feeling powerful was shocking, as an activist she never thought she could have true influence and be heard.
+It is hard to have so many important things to push through while also dealing with stress, exhaustion, and fear.
+The group was very tense, and fights between them did happen. People died, and one of the activists that she knew lost his eye while covering the protests (taking pictures, writing). She was sad but so enraged that she thought, now there is no backing out, and we can't lose this.
+
+Reacting with violence is an act of resistance, and expected, if you are being treated with violence. However, in their case, it was not strategic, and what really made sense was to put people in the streets and make them feel safe in the protests. Still, no matter how peacefully you protest, you will always get repression.
+The smallest the town, the harshest the repression - in Panama repression was lesser than what happened in Veraguas, where people got attacked with tear gas for peacefully protesting. In smaller towns, protest leaders were more afraid 
+
+**Do you see Panama as an outlier in Latin America in political engagement and social awareness of the population? What can other Latin countries, given our diversity and common struggles, learn from the Panamanian experience?**
+Panama is an outlier as we saw results, but there was really no guarantee. Chileans also collectively rose, and still haven't got the constitution that they wanted. Also, not even in Panama they know if the company will go away. We could have done the exact same thing and not gotten the same successful result. One crucial factor is that Panama has elections coming next May. They knew the politicians wanted to be well seen and they used that - they printed politicians' faces and put them everywhere, to make the issue against the politicians personally, instead of just the government in general, so they felt like they had to bend to the people's will. Also, there was a call to *nationalism and sovereignty*, which fired people up.
+In comparison with Colombia - protests can last too long and then people get tired and abandon them. It was complicated to control the narrative, and that's why they stopped giving interviews to the media, as there was no control of the narrative. Also, the attempt to divide the people (put some groups as bad and others as good) was risky, as well as trying to avoid putting only one leader that could be brought down easily, and make sure that this issue was happening around the whole country. If this had happened, the protests would've definitely had lost energy.
+Wealthy people sent infiltrated youth to the protests with a covered face to fight.
+
+**Who are these people and what makes you and the others activists? What causes certain people to lead movements, and how can we make that work in other places?**
+She worked for years in the biomuseum, and that made her realize that the value of Panama is not in the mining, it's in its biodiversity. In Panama, sometimes there's trash around, there's no water, and no other activities, so some of the few things that people can enjoy is nature - parks, waterfalls. So it's the only thing that people feel that is their own and they feel like they should be proud of it. Also, education and information has a lot to do with it.
+Before the contract was deemed inconstitutional, she went to the COP in Dubai, funded by NGO Climate Reality Project (started by Al Gore) to send youth leader to these places to try to make goals more ambitious. She got to represent Panama as a negotiator. She was worried the Panamanian government would not have let her go, as they could take her badge away. Thankfully, they didn't know she was going. It was a completely different environment from the activism battleground.
+There were power dynamics that did not allow her to really speak what she wanted to - the whole dynamic was controlled by the US, China and the Arab countries. Latin American countries had little space to be heard.
+Progress is very slow. We need more unity in Latam.
+
+**Far-right - are you concerned about the rise of hyper nationalism in Panama?**
+Not concerned about far right rise in Panama. She feels that the nationalism right is something pontual, more specific, that is needed in certain moment to engage the people, but should not engrain to strengthen the far right in the long term. There are right wing parties, but they are not a big threat to the country. If nationalism was a big problem in Panama, the protests would have exploded earlier.
+
+<mark>Maybe the way to encourage latin american unity and activism is in having nationalism be attached to nature and culture of our countries, as we share so much of it.</mark>
+
+### Resilience and Sustainability - Ana Spalding & Dayana Agudo Atencio
+
+Dayana is a chemist. Ana Spalding did economics, master's in marine policy (where she took a marine ecology course), and did a phd at UC Santa Cruz in environmental policy (a true interdisciplinary program - mixing social and natural chapters). She was a prof at Oregon State doing public policy. It is hard to fit somewhere when you're interested in both natural and social sciences. There's many people interested, but few paths to do that.
+
+[Karen Holl - Restoration Ecology](https://envs.ucsc.edu/faculty/index.php?uid=kholl)
+
+There is more emphasis on human-environment relationships right now due to multiple factors. Climate change has definitely made this a hotter topic, but other things like social media may have made that more evident too. However, advances in this area have been made up to 25 years ago.
+
+- What are the drivers of change?
+- What are the strategies of adaptation?
+- What are the desired resilient outcomes?
+
+There is a resilience postdoc fellowship!
+
+The Smithsonian Science Education Center is involved.
+
+**Resilience definitions** -> There is a questioning of the need to return to a previous state - this may be impossible, so we're looking for alternate stable states.
+
+**Cannot oversimplify the drivers of change** -> "humans are evil and overpopulation is the issue!" Some people don't have agency and can't choose, so it's not all people. Not everyone in this world can live the way I live.
+
+- She is looking for a social-ecological vision for research in the tropical eastern Pacific.
+
+> "Instead of big science questions, I am driven by solutions" - Ana
+
+The knowledge you search for is driven by **your question** - from then, you look for who you need to work with. *You don't need to know the social sciences themselves, but you need to know about them so you know who you need to contact.* This rings true as right now I feel like I have a ton of questions that I don't really know how to ask them. Also, I didn't even know about the existence of human geography before this trip, so there's a lot I need to learn still, and I don't know what I don't know, so that's a bit overwhelming.
+
+> If you have that drive, design your project around a real world question. - Ana
+
+**Policy windows?** -> Where in policy is there a gap for the science to enter? What decisions are being made in which your science would make a difference?
+
+**How to tradeoff the need of time to do science and the urgency to get solutions** -> policy is passed without scientific backing frequency. It is necessary to have meetings with decision makers to understand what materials do they need to get information passed.
+
+<mark>Is a policymaker always a politician?<mark/>
+
+A big issue in sharing data is to make sure it is in a cleaned format to be shared, and in a relevant platform.
+
+In order to improve communication, be **intentional**: who are you trying to communicate with, and why? Be clear to yourself on where you are and where you want to go. Also, remembering to **listen** is important.
+
+
+
+## 17/01/2024, Wed - Project Day
+
+
+### Overview of ongoing questions
+
+
+
+### New interests
+
+**Human Geography** -> A whole research field examining the relationships between people and their environment. Addresses exactly my intended expansion from ecology. Working more on this would also allow me the opportunity to explore my desire to work on communication (not only journalists get to talk to people for their jobs!).
+ 
+> "Ecologia sem luta de classes é jardinagem" - Chico Mendes
+
+**Coral Reef Ecology** -> The overlap between community ecology and species coexistence in coral reefs and forests is super interesting, which would be a cool avenue to explore my interest in marine biology. Also, the effects of deforestation on marine ecosystems through river flow is interesting, as well as aquaculture and fishing. Maybe I don't need to be restricted to terrestrial ecology.
+
+I am rethinking my role as a scientist. I planned on being a modeller working on young forests, but I may see myself more as a landscape ecologist working on human-environment interactions, degradation and restoration, in the tropics, across ecosystems, using both quantitative and qualitative methods, primarily as a quantitative ecologist collaborating with social scientists, and dabbing into social science (primarily environmental policy and human geography) as much as I can.
+
+### Project Ideas
+
+#### Fellowship Proposal
+Good opportunity to investigate the old interest of Javier Sanchez-Galán and myself into the relationship between forest degradation and human nutrition. Depending on the cost, could investigate how does human nutrition quality change depending on whether a community is surrounded by healthy old growth, disturbed old growth, new growth, or fully modified landscapes.
+
+#### Ipeti Report
+I am curious about how much the Emberá people still rely on the forest for their livelihoods. How does forest degradation or protection affect them?
+
+MC mentioned how there are conflicting views - they realize that cattle farming will damage their ability to grow medicinal herbs, but they need the cattle to subsist today, and have little option. In the end, the short-term benefits outweigh the long-term benefits.
+
+**Tragedy of the commons** -> the idea that once a good becomes common, it is more prone to exploitation because short-term individual benefits outweigh long-term collective benefits. [Has been contested by Elinor Ostrom.](https://www.aei.org/articles/elinor-ostrom-and-the-solution-to-the-tragedy-of-the-commons/)
+
+#### Course Final Project
+
+- comparacion dentre relacion de comunidades agroforestales y comunidades aquaculturales, o ganaderia y pescado. como la gente vive de la tierra y el bosque y la gente que vive del mar, las diferencias y similaridades
+- que come la gente en areas de degradacion diferente. como cambio de uso de tierra cambia la diversidad alimentaria y salud de dieta
+- comunicación y educación y su impacto en relación a cuestiones que envuelvan livelihoods - la gente mata al jaguar por ignorancia y necesidad
+
+MC mentioned I should talk to representatives of the communities rather than the people themselves, to get a broad sample of many communities and different perspectives with less conversations and interviews. This can be community leaders, scientists, company heads.
+
+##### People with overlapping interests:
+
+**Dineilys**
+- ganado y agua y uso de tierra
+- educacion y corales
+	- coral bleaching y el niño
+	- edad aproximada de los corales ya estabelecidos
+- diferencias de comunidades en copa de arbol y understory (murcielagos)
+- como el reconocimiento de los murcielagos que están polinizando la parte de arriba y que se sabe de su historia natural.
+- relacion del nutriente del suelo y los arboles
+
+**Cristina**
+- migrantes y danos ambientales
+- credito de carbono y livelihoods
+
+**Analida**
+- climate change y climate action
+
+**Katie**
+- opinión de la gente en relación a la naturaleza
+
+## 16/01/2024 - Agua Salud
+
+### Hydrology
+It was interesting that he began talking about forest sponge effect rather than carbon uptake, biodiversity, and other ecosystem services.
+
+The Panama Canal is an obvious reason - there has been concern over planting trees that soak up water during rainy season and release it during dry to keep levels of the gatun lake.
+After the 2016 expansion, there has been more shutdowns because more water is needed and there are issues with pastureland around. He did some calculations that showed that if the whole basin had been cleared and made pasture, the gatun lake dam would have broken during the rainy season, which would have been a disaster for the canal.
+
+<mark>I wonder why he said forests are not as efficient a solution for water management, and that they should be conserved for wood value and biodiversity instead.</mark>
+
+Forests in Panama have different influences on rainfall as Amazon does, evidently because of the size of the isthmus (a short drive of less than two hours and you go ocean to ocean!). The water that is transpired in the forest rains in the Pacific most often.
+
+70% of trees planted in Panama are teak. It has good commercial value.
+
+Storm chasers go measure the flow of water on storms and how that's different depending on the ecosystem.
+
+### Forest Ecology
+- African tropical forests are more dominated by a single species.
+- It is harder to do research in Africa than here. Jeff has worked in central Africa for 20 years and has felt a large gap between tool availability there and here.
+- Political instability is an issue to establish long term plots in tropical areas.
+- My model does not incorporate the time between abandonment and regrowth, truly. Only the time when the satellite can identify regrowth, and anything before that is still considered pasture. Looking at this distinction in Agua Salud could be interesting, and using it to validate my model at least for pasture sites.
+
+### Major takeaways
+
+It seems like there is good room for collaboration here. Agua Salud has a similar plot in the tropical dry forest on the other side of the country, and he is doing interesting long term studies with economic viability, as well as the effect of the understory, and passive vs active reforestation, from a pure as well as applied science perspective.
+
+Jeff brought up how wars and conflict are a consequence of environmental collapse. Scientists studying Rwandan resource management predicted the genocide based on when the situation would become critical. With the upcoming climate crisis, things are likely to become worse.
+
+
+## 15/01/2014, Mon - Huerta reef snorkeling
+
+Wonderful to see the Big Dipper and the Southern Cross together, and the equatorian-hammock-smiling moon. Wish I had the poetry skills to write something beautiful about it.
+
+We worked on coral identification, benthic relief, and used interesting methods to randomize sampling.
+
+Coral ID was done by dropping a 1m long bar with 5 markings on it. The bar was to be dropped randomly in a zig zag pattern around the reef. Corals touched by the bar to be IDd.
+
+### Coral Science
+
+#### Amazon coral reef
+
+-   division of fresh water in saltwater
+
+#### Coral reproduction
+
+Coral spawning is timed abased on light spectra cues given by the full moon and the sunset. Once the full moon is up, and the setting sun is at the expected angle for each specific species, they spawn within 15 minutes of each other. Studies have been done to shade coral during spawning time, showing they needed the correct lighting cues. Main method of reproductive isolation is timing. When timing overlaps, they develop other methods to inviabilize fertilization.
+
+#### Coral Settlement
+
+Corals settle in CCA (calcium carbonate algae)
+
+Two individual larvae of the same cohort, after they settle at the same time in very close spots, can fuse and become a chimera. About 5% are chimeras.
+
+Conspecific negative density-dependence: Do corals also tend to settle far away from their parent, like trees? - Few ongoing studies! Unsure if corals tend to avoid their own species rather than other species (heterospecific negative density-dependence). - On healthy reefs, monospecific stands are rare.
+
+How do strategies differ between shallow and deep water corals?
+
+Corals seem understudied.
+
+### Personal reflections
+
+Doing science in Latin America is reminding me of the possibilities I've missed out on by being in North America. I am truly grateful for the opportunities I've had, and I recognize my open doors are the result of lots of hard work by myself and many others and even more luck, but at the same time it is painful that to be this privileged, I had to leave Brazil, and that people like me became biologists in a place where the profession is undervalued, with a president who destroys all that has to do with conservation and science.
+
+## 14/01/2024, Sun - Seaweed Farming and rest
+
+Note: the sky here is absolutely beautiful, and these nighttime seascapes would make stunning astrophotography.
+
+### Construction
+
+The mayor mentioned how beaches are protected and houses cannot be built within less than 20 or 30 m from the sea. However, we are sleeping in a house a few steps away from the sea. I have a feeling we have been very excited about something illegal.
+
+### Education
+
+-   On connecting with Daniel on \[\[2024-01-11 Thu\]\], we talked about education and its role in forest conservation, as well as livelihoods. This seems to be part of every successful conservation project, like the TAMAR in Brazil - where turtle fishermen were given jobs in ecotourism and taught the importance of turtles to the ecosystem to the tourists instead of killing them - and the jaguar conservation project in Panama, where camera traps were installed in campesinos' properties so they could see the jaguars in their land and relate to them. I would be curious to gather stories from other successful ecological awareness projects and what they have in common across ecosystems.
+
+Also, <mark>I am curious about the difference between the attitudes of fishermen across both oceans on sea turtle and shark fishing</mark>, and what that means for the populations of these two animals.
+
+### Gloria Batista: Seaweed aquaculture and indigenous peoples
+
+![](https://i.imgur.com/yNvrIu9.jpg){width="30%"}
+
+Very exciting to see an older generation latin american female scientist being a leader in her field.
+
+Mapping in her era was extremely difficult. Daviken and her both believe that using paper maps can be beneficial (and in her case, drawing the maps yourself) for understanding of geography. <mark>Mapping seagrass and different types of coral reefs is harder to do on satellite than manually.</mark>
+
+![](https://i.imgur.com/loJloRU.jpg){width="50%"}
+
+Gloria and her husband are the first people to plant marine algae in Central America. He worked on an oil refinery, and at that time there was a large oil spill. The worker of the refinery met the marine biologist Gloria to try to protect the environment and they've been married for 25 years. They wanted to recover what was damaged from the spill.
+
+She started developing a macroalgae project. Now they sell marine algae to Europe. The company has existed for as long as they've been together.
+
+\[\[Ecosystemology\]\] is a book she introduced to us.
+
+At some point, the library they built was destroyed by the American soldiers during the Panamanian invasion.
+
+There is a division of labour in seaweed farming - women prepare the seeds, men plant them into the ocean. They can be planted with low water, but with sea level rise it can become too deep for the algae and generates tall waves.
+
+In Colón, people sell dry algae to be consumed as drinks. They produce algae with indigenous peoples. The government has invited them to do projects with carbon sequestration but they don't work with it yet. They are not sure if this is a truly useful solution or if it is an attempt of governments to greenwash.
+
+#### Guna people usage of algae for food and medicine
+
+[Las algas brindan nuevas oportunidades a los pescadores indígenas en Panamá \| Historias de la FAO \| Organización de las Naciones Unidas para la Alimentación y la Agricultura](https://www.fao.org/fao-stories/article/es/c/1538466/)
+
+She noticed that Guna people were working with macroalgae. It is healthy for stomach, as people were ill from hunger and constantly changing diets. She published much about the indigenous and caribbean afroantillanos usage of algae. The local inaduledi (pajé) would help classify the algae. They were used for healing as well as chants and dances. The inaduledi communicates with auxiliares that treat the ill, diagnose, practice infirmary, and attend epidemics.
+
+There has been good documentation of how these people use land plants, but this was a new project that incorporated algae.
+
+**How is the market for these algae, and do the same people also work with sustainable agriculture and/or agroforestry?** - The Guna people mainly live in islands so they are very reliant on the sea. They have been moved to the land due to sea level rise. Historically they lived on land, but the Spaniards expelled many of them to the sea. However, there are still some on land and some in Colombia.
+
+Panama is the first country (at least in Latin America an the Caribbean) that have started a program to move communities due to climate change
+
+I'm remembering a really cool [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3835452/#:~:text=The%20Kuna%20Indians%20who%20reside,least%20on%20their%20death%20certificates.) I read with regards to the Guna people and heart disease, back in the 1990s. The study showed that the Guna originally had no heart disease issues, and as they moved to the city they started developing heart disease issues.
+
+Algae can be an interesting food supplement - the guna of san blas (guna yala), that consume algae, are taller and more robust than the guna of bayano. The difference can be attributed to diet or physical conditions.
+
+New skin for burns can be made from algae.
+
+### Projects
+
+-   Human nutrition and environmental change.
+
+-   Qualitative work for my project.
+
+## 13/01/2024, Sat - Sea cucumber and snorkel day
+
+### Sea cucumber farming
+
+We visited an aquaculture facility near Colón. The company, PanaSea, collects sea cucumbers from the seagrass during their egg-laying season, which is 4 days before every full or new moon. I appreciate the idea of a project that works on commercialization of a natural product, while also working on the restoration of ecosystems through mangrove seedlings and reintroduction of sea cucumbers into the depleted seagrass.
+
+It was interesting to learn how mangrove seedlings can choose where to settle by controlling their buoyancy. One more point on corals and plants and plankton having more choice than we'd give them credit for.
+
+It was really disappointing to see the presentation by a French masters' student that had no results and spoke as if he did, with terribly insignificant plots. It was, however, an interesting opportunity to converse with Jarrod on keeping expectations high and toxicity low in academia by providing feedback when it's warranted while never assuming malintent.
+
+### Snorkeling
+
+The beach has the most coral skeleton that I've ever seen. It's incredibly shallow with few waves. Seabirds are either small andorinhas or large pelicans, no seagulls or albatrosses to be seen. I'm sure there's medium sized birds somewhere.
+
+Seagrass bed was beautiful, with interesting round algae (Penicill) and colourful fish living within it. Coral reef seemed surprisingly degraded. Absence of: - starfish - large crustaceans - sharks - turtles - jellyfish Little presence of: - small crustaceans - schools of fish Plenty of: - fire coral - non-schooling like damselfish and butterflyfish - dead patches - bleached coral Notable presence: - large barracuda (at least 1m) - large blowfish
+
+The reef reminded me a lot of Arraial do Cabo, but with no coral-sol to be seen, and very warm shallow waters. Arraial, however, has larger reef fish and more sea turtles, and is in an upwelling zone. \### Conversation with Carrie \#### Random thoughts - corals are animals, so they are not equal to trees in the sense that the larvae do have some matter of choice of where to settle. There are some interesting similarities between coral reefs and forest ecosystems. - <mark>theoretical modelling of metaecosystem dispersal would be also nicely applied to coral reefs. Unlike large land predators, large marine predators can disperse more easily without the impedement of roads and farms.</mark> - segmentation modelling can also be done to identify coral species in coral reefs. There are also \#### Coral morphology
+
+![](https://i.imgur.com/cRBFN55.jpg)
+
+![](https://i.imgur.com/3I00QOb.jpg)
+
+-   The corals grow in different shapes depending on the environment, like plasticity in trees. A coral can also change its phenotype depending on its lifetime.
+-   Corals can hybridize into chimeras.
+-   Distinguishing species can be hard. Molecular evidence and reproductive studies are conducted for the answer.
+-   One "mouth" is one individual! So what looks like an individual "coral" is a colony of many little mouths bundled together, each one belonging to an individual. They are characterized based on:
+    -   colony shape
+    -   the sharing of walls (shared, separate, absent)
+    -   Septa, costae, septo-costae \#### Bleaching and invasive corals \##### bleaching
+-   They get rid of their zooxanthellae as oxygen reactive species become too much of a problem. The tissue gets discolored. It can recover if this is not long. \##### has a bleached region ever been successfully restored?
+-   not yet :(((( there are efforts, a largest one done in Florida, but no reef recovered yet
+
+![](https://i.imgur.com/7ADp4gi.png)
+
+Percentage of living coral cover of what are coral communities.
+
+-   corals have different life strategies - stress-tolerant slow growing, stress-intolerant fast growers, and unstable life strategies. Photogrametry is also used here to measure tree cover.
+-   Disease also affects coral communities, as well as storms, temperature rise and pH. Diseases are more of a common issue in the caribbean, as it suffers from lots of direct sewage pollution and agriculture runoff (deforestation kills corals too! through sedimentation).
+-   Many oil spills are also an issue around Panama.
+
+#### Symbiosis
+
+-   the endosymbiosis of zooxanthellae and corals provides them with food but also restricts their range based on the range of the symbiont. They can shift their ranges and shift back depending on the conditions. Also, there needs to be the ideal conditions for coral to grow. One of which is low nutrients, because where there are algae they suffer from competition with algae.
+-   There's a large range of environments you can find
+-   coral and symbiotic relationship with algae - do most of them do it?
+    -   the vast majority of corals in the photic zone has zooxanthellae. many in more darkness do not.
+-   some corals do have pigments.
+
+## 12/01/2014, Fri - Crane day
+
+The crane is 50m long, 60m tall. There was a lot of illumination on the top of the canopy, and the ground looked very dark when seen from the top, although the trails look well lit when you're walking through them - gives a good perspective on the light gradient and competition. <mark>I wonder what is the increase gain in information with an increase in resolution in SAR and LiDAR-measured plots,</mark> and when does the increase in resolution reach a moment that it is just too much. Say, 2cm is useless information! Where in between 100m and 2cm is optimal biomass resolution? I'd guess somewhere around 30-60m, as a large tree crown seems to easily be 15m wide.
+
+Top-down or bottom-up dominance - evolutionary ecologists need information from community ecologists to understand what currently goes on (where are herbivores more diverse, and how does that vary in relation with producer diversity?) to then extrapolate into the past. <mark>I wonder what theoretical models have been done about this.</mark>
+
+Bryophyte biodiversity with Mikol - it was a bit annoying to feel like I was being treated like a high schooler in the beginning, but once he understood I already knew basic plant taxonomy it was AWESOME. Got to see liverwort and red algae in a pond full of tadpoles. Held frog eggs on my hand, they look like foam but from up close are tiny tiny eggs.
+
+Katie asked Mikol about the most threatened forest in Panama, and he said it is the dry forest as people don't recognize it as a real forest. I have a feeling this is a local phenomenon, as wet forests in South America, Africa and SE Asia are definitely very threatened. Which forests are more threatened, dry or wet? - the Cerrado deforestation has risen by 40% while Amazon deforestation has decreased by 50% over the past year - I WAS WRONG! Dry tropical forests are more threatened! To check whether that is a result of disturbance or deforestation. - [Tropical Dry Forests The Most Endangered Major Tropical Ecosystem - Biodiversity - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK219281/#:~:text=The%20rain%20forest%20is%20not,dry%20forests%20hold%20this%20honor.)
+
+### Panamanian history
+
+Panamanian have pride in their fighting spirit.
+
+Watermelon slice incident - one american "bought" a watermelon slice from a panamanian but did not want to pay. a huge fight started and 16 people died.
+
+Jan 9th is Panama Martyr Day - around 1964 40-60 students died bringing the Panamanian flag to be hasteada in the Panama Canal area, after the US disrespected an agreement to put both flags in the area. This made the government of Panama more determined to get the canal area back from the US. The flag was taken and ripped in half. It was reconstructed and is now in a museum. There is a monument to them under the name of the red cross volunteer that was one of the leaders of the monument.
+
+1979 was the Carter treaty where they gave the land back to Panama. Was signed by General Turizo, who actually had consideration for the people's well being. Panama progressed after independence from the US.
+
+Dec 18 1989 - US military wanted to kill a panamanian general and bombed and destroyed the whole Canal zone. This was due to a part of the CIA wanting to allow drug dealing to reach the US in their efforts to emprison and enslave poor people as prison workers for crack cocaine consumption.
+
+The president that signed the treaty with the US for independence from Colombia did not know English well, so there is a chance he did not understand he was giving away a critical part of his country. Americans lived as kings in Panamanian soil while the locals starved. With the killing of Panamanians in the 80s, people still resent the US.
+
+Dec 30th 1999 - US finally leaves the Canal Zone.
+
+
+## 11/01/2024, Thu - Daviken/Daniel
+
+Daviken spoke about decolonizing science - mentioned the book that Holly had mentioned before as well, \[\[Decolonizing Methodology\]\] by \[\[Linda Thuhui Smith\]\]. We mentioned the dialogue that must happen between indigenous communities and scientists, which has historically been a dismissal of the indigenous as scientists occupy their land as if it's empty (violating territorial sovereignty). The conversation was geared much towards the relationship between the researcher and the people at the targeted communities. I feel like there is space for more discussions on the role of scientists as active agents - activists - on the issues that these communities face.
+
+Daniel was speaking as a leader of an NGO that works with social-environmental issues in Panama, ranging from gender issues to indigenous territorial sovereignty. He is a biologist, so also a scientist, but he is very involved with social work now, which is interesting. Over dinner he spoke as if he was almost less a biologist because of it? It's a sentiment I can understand, but it's interesting to see the gradients that exist between the social and biological sciences and how they overlap in different ways, and how a biologist can be so successfully involved with communities while still addressing conservation. He mentioned how some of the malnutrition that happens in Ngobe Bugle region is due to them being displaced from their ancestral land by the spaniards and having to find refuge in poorer areas which are naturally not forested. So, land sovereignty is also an issue of food security - I assume the peoples who are able to maintain their ancestral lands (which tend to be richer) and keep it undisturbed have less nourishment issues. Also connects to the Yanomami that starved after the garimpeiros arrived. Also, we talked how introduction of processed foods and refined sugars is an issue everywhere and brings addiction (like alcohol) and diabetes.
+
+Also, we talked about respecting people's right to choose what happens through their land, campesinos and indigenous alike. We mentioned how protecting the nature is a matter of social equality. Panama is incredibly socially unequal, with an income index skewed high due to the large social gaps. This also makes medications so incredibly expensive here that people bring medications from neighboring countries and even from the US. Whenever there is poverty, nature is the first to suffer. Also reminds of the conversation with Gabriel, on the campesinos that killed the harpia and the jaguar for killing chickens. People don't have the same respect for the environment when they don't understand its value and they have food insecurity. Their work with education is likely as important as their work with agroforestry. They are also involved with Jeff Hall's reforestation project. Also, there was a lot of talk of the mining activities of gold and copper and how many of them have thankfully been closed. They were right in the middle of the mesoamerican corridor, which is also a very awesome thing, an agreement across Central american countries to assure a wildlife corridor.
+
+I would like to incorporate a mix of both Daviken's and Daniel's talks today. Still approach my work from a researcher's lens, with the people I'm working with as aware consenting parts of the project, and also as a part of the community myself, within Brazil and LatAm, to think of how I can help support people in my region. My project proposal will definitely be more on this end of the thing.
+
+## 08/01/2024, Mon : 10/01/2024, Wed - BCI Overhaul
+
+## 07/01/2024 - From Arduino to BCI

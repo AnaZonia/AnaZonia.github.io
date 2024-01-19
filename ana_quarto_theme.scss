@@ -6,6 +6,7 @@ $highlight-color: yellow;
 // Italic color
 $italic-color: #8CC696;
 
+
 // Bold color
 $bold-color: #DB94D9;
 
@@ -16,8 +17,15 @@ $header3-color: #92E3A4;
 $header4-color: #D4AF6C;
 
 // Document colors
-$document-background: #063630;
+$document-background: #01200C;
 $document-font-color: #E5F5EF;
+
+// Internal Table of Contents link style
+$toc-color: #38C391;
+$toc-active-border : #D9C963; 
+
+
+//////////////////////////////////////
 
 body {
   background-color: $document-background;
@@ -34,8 +42,12 @@ body {
   background-color: $highlight-color;
 }
 
-.italic {
+i, em {
   color: $italic-color;
+}
+
+b {
+  color: $bold-color;
 }
 
 h1 {
@@ -50,18 +62,12 @@ h3 {
   color: $header3-color;
 }
 
-// Link styles
-a {
-  color: #D9C963; // Default link color
-  text-decoration: none; // Remove underlines by default
+/* This will change the color of the TOC links */
+#TOC a {
+  color: $toc-color;
 }
 
-a:hover {
-  color: #38C391; // Change color on hover
+/* This will change the color of the active TOC item */
+#TOC .active {
+  border-color: $toc-active-border;
 }
-
-// Internal Table of Contents link style
-$toc-color: #38C391;
-$toc-active-border : #D9C963; 
-
-

@@ -1,0 +1,4 @@
+- source: AnaDidScienceToday.qmd
+  quarto-pub:
+    - id: e87ad18a-8d70-47c2-9740-c653095f327b
+      url: 'https://anazonia.quarto.pub/ana-did-science-today'
