@@ -173,6 +173,9 @@ In order to improve communication, be **intentional**: who are you trying to com
 
 ### Overview of ongoing questions
 
+- Does biodiversity loss affect stability similarly in coral reefs as it does in tropical forests?
+- How are the Amazon reefs affected by deforestation?
+- How does the Amazon and Atlantic forests affect fisheries in the Brazilian coast?
 
 
 ### New interests
@@ -263,7 +266,9 @@ We worked on coral identification, benthic relief, and used interesting methods 
 
 Coral ID was done by dropping a 1m long bar with 5 markings on it. The bar was to be dropped randomly in a zig zag pattern around the reef. Corals touched by the bar to be IDd.
 
-### Coral Science
+### Coral Ecology
+
+- Over 90% of coral from the aquarium trade comes from the wild. Coral farming is useful to supply that market as well as provide for regeneration efforts.
 
 #### Amazon coral reef
 
@@ -434,6 +439,13 @@ Also, we talked about respecting people's right to choose what happens through t
 
 I would like to incorporate a mix of both Daviken's and Daniel's talks today. Still approach my work from a researcher's lens, with the people I'm working with as aware consenting parts of the project, and also as a part of the community myself, within Brazil and LatAm, to think of how I can help support people in my region. My project proposal will definitely be more on this end of the thing.
 
-## 08/01/2024, Mon : 10/01/2024, Wed - BCI Overhaul
+
 
 ## 07/01/2024 - From Arduino to BCI
+
+- Costa Rican regeneration success is largely due to payments for ecosystem services established since the 80s.
+
+It was cool to work with Arduino for the first time, and have some of that feeling of curious play that the pressure of academia has beat out of me. I do have a lot that I want to learn, and a bunch of opportunities that would require me a whole year off to just study if I wanted to do everything, and I am incredibly curious, but way too overwhelmed to really just take my time, slow down, and play as I learn new things without the pressure of having a specific goal to be achieved.
+
+I'm realizing I would've enjoyed circuits and physics labs much better if they had been taught like this, and I'd be excited to try to customize things at home using an arduino.
+
